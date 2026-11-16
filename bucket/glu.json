@@ -1,11 +1,11 @@
 {
-    "version": "0.0.57",
+    "version": "0.0.58",
     "description": "Markdown to PDF. With typographic precision.",
     "homepage": "https://github.com/boxesandglue/glu",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/boxesandglue/glu/releases/download/v0.0.57/glu-windows-amd64.zip",
-            "hash": "eebbbe5b296588caa1a14eb623d16e76132d4036ca7c3891191e47ff50ed3c13"
+            "url": "https://github.com/boxesandglue/glu/releases/download/v0.0.58/glu-windows-amd64.zip",
+            "hash": "b25572bc0359c9d2b1dfa6c2a82764eae21a1ebdfd7d266c89d12549468c339f"
         }
     },
     "extract_dir": "glu-windows-amd64",
