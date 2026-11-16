@@ -2,6 +2,9 @@
     "version": "0.0.58",
     "description": "Markdown to PDF. With typographic precision.",
     "homepage": "https://github.com/boxesandglue/glu",
+    "license": {
+        "identifier": "MIT"
+    },
     "architecture": {
         "64bit": {
             "url": "https://github.com/boxesandglue/glu/releases/download/v0.0.58/glu-windows-amd64.zip",

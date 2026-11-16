@@ -2,6 +2,13 @@
     "version": "1.0.4",
     "description": "Clipboard manager for Windows. Alternative to Ditto.",
     "homepage": "https://github.com/farzher/clipman",
+    "licease": {
+        "identifier": "Unknown"
+    },
+    "notes": [
+        "The manifest does not support persisting custom database name after an update.",
+        "Only the default file name clipman.db is allowed."
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/farzher/clipman/releases/download/v1.0.4/clipman.zip",
@@ -20,8 +27,8 @@
     ],
     "bin": "clipman.exe",
     "persist": [
-	"clipman.db",
-	"clipman.ini"
+        "clipman.db",
+        "clipman.ini"
     ],
     "checkver": "github",
     "autoupdate": {
